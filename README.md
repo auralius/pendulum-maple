@@ -1,2 +1,7 @@
 # pendulum-maple
-Maple document on single and double pendulum (planar), with Newtonian and Lagrangian
+A Maple document on a single and a double pendulum (planar), with Newtonian and Lagrangian mechanics.
+
+![Single Pendulum](D1.gif)
+
+![Double Pendulum](D2.gif)
+
